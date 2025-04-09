@@ -29,6 +29,9 @@ An intelligent assistant you can **run locally for free**, complete with **web s
 - **📏 Adjustable Max Tokens**  
   Generate answers from 512 up to 8192 tokens, depending on your preference or system capabilities.
 
+  ![image(1)](https://github.com/user-attachments/assets/d23e80be-2254-49b9-b235-2c20988b9d3b)
+
+
 ## 🏗️ Project Overview
 
 - **config.py**  
