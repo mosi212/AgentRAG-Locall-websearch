@@ -53,8 +53,8 @@ An intelligent assistant you can **run locally for free**, complete with **web s
 
 1. **Clone the Repo**  
    ```bash
-   git clone https://github.com/<your-username>/ai-agent-assistant-rag.git
-   cd ai-agent-assistant-rag
+   git clone https://github.com/mosi212/AgentRAG-Locall-websearch.git
+   cd AgentRAG-Locall-websearch
    ```
 
 2. **(Optional) Create/Activate a Conda Environment**  
